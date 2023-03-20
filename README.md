@@ -3,4 +3,4 @@
   - 파일명 : pretest-0.0.1-SNAPSHOT.jar
 
 실행
-  > java -jar pretest-0.0.1-SNAPSHOT.jar
+  - java -jar pretest-0.0.1-SNAPSHOT.jar
